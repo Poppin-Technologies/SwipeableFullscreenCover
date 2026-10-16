@@ -16,7 +16,7 @@ let package = Package(
             targets: ["SwipeableFullscreenCover"]),
     ],
     dependencies: [
-      .package(url: "https://github.com/siteline/SwiftUI-Introspect.git", .upToNextMajor(from: "0.7.0"))
+      .package(url: "https://github.com/siteline/SwiftUI-Introspect.git", .upToNextMajor(from: "1.0.0"))
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
